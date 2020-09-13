@@ -1,3 +1,4 @@
-# hallo saya melda
+# Hallo Nama saya Melda Richwana
 
-saya
+saya dari jurusan Teknik Informatika Semester 3
+
